@@ -1,0 +1,15 @@
+
+Zsquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8í¯†ˆ-
+d
+squid:S899<"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8í¯†ˆ-
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(ø²ÕÅ8í¯†ˆ-
+Xsquid:S1141;"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8í¯†ˆ-
+Fsquid:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8í¯†ˆ-
+Fsquid:S1148Q"#Use a logger to log this exception.(€Œªºúÿÿÿÿ8í¯†ˆ-
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Åë…8í¯†ˆ-
+Fsquid:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8í¯†ˆ-
+Msquid:S20937"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8í¯†ˆ-
+csquid:S1858/"@"format" returns a string, there's no need to call "toString()".(ƒƒ°¹ûÿÿÿÿ8í¯†ˆ-
+usquid:S3973N"WUse curly braces or indentation to denote the code conditionally executed by this "if".(òÌßì8¼ÛÏö¹-

@@ -1,0 +1,55 @@
+
+?squid:S1170("!Make this final field static too.(»€é8¢Íê‡ˆ-
+Jsquid:S1659#"'Declare "pieChart7" on a separate line.(àıÎ£ıÿÿÿÿ8¢Íê‡ˆ-
+rsquid:MaximumInheritanceDepth"=This class has 10 parents which is greater than 5 authorized.(‡§¼úÿÿÿÿ8¢Íê‡ˆ-
+Osquid:S1659Ç"+Declare "countOfFemale" on a separate line.(Ä®Ö§úÿÿÿÿ8³÷ñ‡ˆ-
+osquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(ÅÉÛ¾ıÿÿÿÿ8³÷ñ‡ˆ-
+Jsquid:S1659#"'Declare "pieChart5" on a separate line.(àıÎ£ıÿÿÿÿ8¢Íê‡ˆ-
+Ksquid:S1905V"-Remove this unnecessary cast to "ScrollView".(ĞñĞ‰8¢Íê‡ˆ-
+Fsquid:S1905I")Remove this unnecessary cast to "Button".(øã	8¢Íê‡ˆ-
+Msquid:S1659Ç")Declare "oldAgeRange" on a separate line.(Ä®Ö§úÿÿÿÿ8³÷ñ‡ˆ-
+Lsquid:S1659!")Declare "tvPiechart4" on a separate line.(û©ìòøÿÿÿÿ8¢Íê‡ˆ-
+Isquid:S1905M"+Remove this unnecessary cast to "TextView".(±¦¼†8¢Íê‡ˆ-
+Gsquid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¢Íê‡ˆ-
+Jsquid:S1659#"'Declare "pieChart4" on a separate line.(àıÎ£ıÿÿÿÿ8¢Íê‡ˆ-
+Nsquid:S1905S"+Remove this unnecessary cast to "TextView".(Ê˜ŒØùÿÿÿÿ8¢Íê‡ˆ-
+hsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(óôµ8¢Íê‡ˆ-
+Hsquid:S1659 "*Declare "btnShowGraph" on a separate line.(¯‘êì8¢Íê‡ˆ-
+Lsquid:S1659Ç"(Declare "totalCount" on a separate line.(Ä®Ö§úÿÿÿÿ8³÷ñ‡ˆ-
+Nsquid:S1905O"+Remove this unnecessary cast to "TextView".(¶ášëüÿÿÿÿ8¢Íê‡ˆ-
+Nsquid:S1905\"+Remove this unnecessary cast to "PieChart".(ÿã‹Êúÿÿÿÿ8¢Íê‡ˆ-
+osquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ùÂîäÿÿÿÿÿ8³÷ñ‡ˆ-
+isquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(ãáó 8¢Íê‡ˆ-
+Nsquid:S1659Ç"*Declare "kidsAgeRange" on a separate line.(Ä®Ö§úÿÿÿÿ8³÷ñ‡ˆ-
+jsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(êï›ë8³÷ñ‡ˆ-
+Msquid:S1659""*Declare "scrollGraphs" on a separate line.(÷‡ÍÇøÿÿÿÿ8¢Íê‡ˆ-
+Isquid:S1905N"+Remove this unnecessary cast to "TextView".(¬¦Ìä8¢Íê‡ˆ-
+Lsquid:S1659!")Declare "tvPiechart2" on a separate line.(û©ìòøÿÿÿÿ8¢Íê‡ˆ-
+Isquid:S1905P"+Remove this unnecessary cast to "TextView".(‹ÿ±•8¢Íê‡ˆ-
+Jsquid:S1659#"'Declare "pieChart6" on a separate line.(àıÎ£ıÿÿÿÿ8¢Íê‡ˆ-
+osquid:CommentedOutCodeLineí"<This block of commented-out lines of code should be removed.(àê÷¼øÿÿÿÿ8³÷ñ‡ˆ-
+Msquid:S1659Ç")Declare "midAgeRange" on a separate line.(Ä®Ö§úÿÿÿÿ8³÷ñ‡ˆ-
+`squid:CallToDeprecatedMethodß"0Remove this use of "getColor"; it is deprecated.(ˆà¬÷8³÷ñ‡ˆ-
+Isquid:S1905^"+Remove this unnecessary cast to "PieChart".(ÿ¡İö8¢Íê‡ˆ-
+hsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(«ÛèX8¢Íê‡ˆ-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(óü•Ç8¢Íê‡ˆ-
+isquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(¤¿•a8³÷ñ‡ˆ-
+jsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(å®û˜8³÷ñ‡ˆ-
+Nsquid:S1905Z"+Remove this unnecessary cast to "PieChart".(«‘§Õüÿÿÿÿ8¢Íê‡ˆ-
+Tsquid:S1659!"1Declare "tvGenderAndAgeGroup" on a separate line.(û©ìòøÿÿÿÿ8¢Íê‡ˆ-
+Gsquid:S1659 ")Declare "btnFireBase" on a separate line.(¯‘êì8¢Íê‡ˆ-
+Lsquid:S1659!")Declare "tvPiechart3" on a separate line.(û©ìòøÿÿÿÿ8¢Íê‡ˆ-
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(Ï‘¥æ8¢Íê‡ˆ-
+Lsquid:S1659!")Declare "tvPiechart5" on a separate line.(û©ìòøÿÿÿÿ8¢Íê‡ˆ-
+Isquid:S1905Q"+Remove this unnecessary cast to "TextView".(‘Ô‘ø8¢Íê‡ˆ-
+Nsquid:S1905R"+Remove this unnecessary cast to "TextView".(‡ï°ÿÿÿÿÿ8¢Íê‡ˆ-
+Nsquid:S1905["+Remove this unnecessary cast to "PieChart".(ß®Æ¥úÿÿÿÿ8¢Íê‡ˆ-
+Psquid:S1905W"-Remove this unnecessary cast to "ScrollView".(ç·“ıÿÿÿÿ8¢Íê‡ˆ-
+Osquid:S1659Ç"+Declare "youthAgeRange" on a separate line.(Ä®Ö§úÿÿÿÿ8³÷ñ‡ˆ-
+Lsquid:S1905G")Remove this unnecessary cast to "Button".(§ÚàÉúÿÿÿÿ8¢Íê‡ˆ-
+Isquid:S1905]"+Remove this unnecessary cast to "PieChart".(µç‡î8¢Íê‡ˆ-
+Lsquid:S1659!")Declare "tvPiechart1" on a separate line.(û©ìòøÿÿÿÿ8¢Íê‡ˆ-
+jsquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(¸©ä˜8³÷ñ‡ˆ-
+Gsquid:S1905H")Remove this unnecessary cast to "Button".(İŸÚ8¢Íê‡ˆ-
+Lsquid:S1940î"(Use the opposite operator (">") instead.(Æœ€£øÿÿÿÿ8³÷ñ‡ˆ-

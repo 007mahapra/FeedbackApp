@@ -1,0 +1,11 @@
+
+jsquid:S00112c"FDefine and throw a dedicated exception instead of using a generic one.(•¬Ë´úÿÿÿÿ8¿Å¯†ˆ-
+–squid:S1319c"sThe return type of this method should be an interface such as "SortedMap" rather than the implementation "TreeMap".(•¬Ë´úÿÿÿÿ8¿Å¯†ˆ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀˆÁäþÿÿÿÿ8¿Å¯†ˆ-
+nsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(îÐÖ¥ÿÿÿÿÿ8¿Å¯†ˆ-
+isquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(Î„”¥8¿Å¯†ˆ-
+asquid:S00107+"=Method has 14 parameters, which is greater than 7 authorized.(ë•äØùÿÿÿÿ8¿Å¯†ˆ-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ŒÒãúÿÿÿÿ8¿Å¯†ˆ-
+isquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(¬¿¢8¿Å¯†ˆ-
+Asquid:S1148H"#Use a logger to log this exception.(Ç’Çê8¿Å¯†ˆ-
+~squid:S1488Q"[Immediately return this expression instead of assigning it to the temporary variable "res".(èÄÀ¸ýÿÿÿÿ8¿Å¯†ˆ-

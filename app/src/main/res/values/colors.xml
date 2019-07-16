@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="submitColor">#29b40d</color>
+    <color name="clearColor">#ff6600</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="errorColor">#e32727</color>
+    <color name="appBackGroundColor">#47f3ff</color>
+    <color name="ratingLableColor">#46068b</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

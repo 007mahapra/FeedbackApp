@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "472298343682",
+    "firebase_url": "https://feedbackapp-eea4b.firebaseio.com",
+    "project_id": "feedbackapp-eea4b",
+    "storage_bucket": "feedbackapp-eea4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472298343682:android:18f871becec8fc56",
+        "android_client_info": {
+          "package_name": "com.salt.test.feedbackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472298343682-0iaum6uoagic2nd0dlt0omcmpgn9ov2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvR-RakfJ01C422dzw4olJ_frpscLpfrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,164 @@
+<resources>
+
+
+    <!--Below 2 properties are IDE, when you use TextInputLayout IDE renders issues and this can be added in any of the res value file to resolve the issue-->
+    <!-- Follow this link https://stackoverflow.com/questions/41303347/couldnt-resolve-resource-id-visible-when-using-textinputlayout
+    https://github.com/smartherd/Mod5FloatingLabel/blob/master/app/src/main/java/com/annie/smartherd/mod5floatinglabel/MainActivity.java
+    -->
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+
+
+    <!--https://www.simplifiedcoding.net/firebase-realtime-database-crud/ -->
+    <string name="fireBaseDatabaseLink">https://feedbackapp-eea4b.firebaseio.com/</string>
+
+
+    <string name="databaseName">FEEDBACKDATABASE</string>
+    <string name="CreateTableQuery">CREATE TABLE IF NOT EXISTS FEEDBACKDATA(TIMESTAMP TEXT NOT NULL, NAME TEXT NOT NULL, AGE INTEGER NOT NULL, GENDER TEXT NOT NULL, PLACE TEXT NOT NULL, CONTACT TEXT NOT NULL, EMAIL TEXT , Q3 INTEGER NOT NULL, Q4 INTEGER NOT NULL, Q5 INTEGER NOT NULL, Q6 INTEGER NOT NULL, Q7 INTEGER NOT NULL, COMMENTS TEXT);</string>
+
+
+    <string name="app_name">SNM Kids Exhibition Admin</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="feedback_lable">New Feedback</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnClear">Clear</string>
+
+
+    <string name="rbYes">Yes</string>
+    <string name="rbNo">No</string>
+
+    <string name="cbAgree">Agree</string>
+    <string name="cbDisagree">Disagree</string>
+    <string name="cbWonderful">Wonderful</string>
+    <string name="lblGender">Gender</string>
+    <string name="rbMale">Male</string>
+    <string name="rbFemale">Female</string>
+    <string name="btnSpare">Exit</string>
+    <string name="btnInsights">Insights</string>
+    <string name="showGraph">Show Graph</string>
+    <string name="btnAnalyse">Analyze</string>
+    <string name="btnLoadData">Load Data</string>
+    <string name="btnDeleteData">Delete Data</string>
+
+
+    <string name="removeCommaError">Please remove comma(,).</string>
+    <string name="nameErrorMsg">Name is mandatory</string>
+    <string name="placeErrorMsg">Place is mandatory</string>
+    <string name="ageErrorMsg">Age is mandatory</string>
+    <string name="contactErrorMsg">Contact is mandatory</string>
+    <string name="pinErrorMsg">Invalid Pin !</string>
+
+    <string name="successSubmit">Validated</string>
+    <string name="failSubmit">Validation Failed, Please check details !</string>
+    <string name="etName">Name</string>
+    <string name="etAge">Age</string>
+    <string name="etPlace">Place</string>
+    <string name="etContact">Contact</string>
+    <string name="etEmail">Email (Optional)</string>
+    <string name="etComments">Additional Comments</string>
+
+
+    <string name="q1">Which section/s of the exhibition did you like the most ?</string>
+    <string name="q1Ans1cb">Models</string>
+    <string name="q1Ans2cb">Games Section</string>
+    <string name="q1Ans3cb">Video Section</string>
+    <string name="q1Ans4cb">Information on Social and Digital Media</string>
+    <string name="q1Ans5cb">Overall Presentation</string>
+
+
+    <string name="q2">What is your level of awareness about mission\'s website ?</string>
+    <string name="q2Ans1rb">I am aware but never visited</string>
+    <string name="q2Ans2rb">I am aware and regular visitor</string>
+    <string name="q2Ans3rb">I am aware and visit often</string>
+    <string name="q2Ans4rb">I am not aware</string>
+    <string name="q2Ans5rb">I don\'t know what you are talking about</string>
+
+
+
+    <!--Ratings-->
+    <string name="rating1">1</string>
+    <string name="rating2">2</string>
+    <string name="rating3">3</string>
+    <string name="rating4">4</string>
+    <string name="rating5">5</string>
+
+
+    <string name="TimeStamp">TimeStamp</string>
+    <string name="Name">Name</string>
+    <string name="Age">Age</string>
+    <string name="Gender">Gender</string>
+    <string name="Place">Place</string>
+    <string name="Contact">Contact</string>
+    <string name="Email">Email</string>
+    <string name="Comments">Comments</string>
+
+
+    <!--Questions-->
+
+
+
+   <string name="q3">Overall Experience of visiting Nirankari Kids Exhibition ?</string>
+    <string name="q4">How do you rate the aptness of Models for Kids ?</string>
+    <string name="q5">Overall presentation of Kids Exhibition ?</string>
+    <string name="q6">How do you rate the quality of explanation by Kids saints ?</string>
+    <string name="q7">How do you rate the overall arrangements of the Kids Exhibition ? </string>
+
+
+        <string name="ratingLable">On a scale of 1 to 5, How would you rate your experience ?
+        \nWhere :
+        \n\n 5 - Outstanding
+        \n 4 - Excellent
+        \n 3 - Very Good
+        \n 2 - Good
+        \n 1 - Needs Improvement
+    </string>
+
+
+<!--
+    <string name="q3">संपूर्ण बालप्रदर्शनी देखने का आपका अनुभव कैसा रहा ?</string>
+    <string name="q4">बच्चों के लिए बने हुए इन मॉडल्स की उपयुक्तता  ?</string>
+    <string name="q5">बाल प्रदर्शनी का संपूर्ण प्रतिपादन (प्रेजेंटेशन ) आपको कैसा लगा   ?</string>
+    <string name="q6">मॉडल्स का बाल संतो द्वारा दिया गया  विवरण आपको कैसा लगा ?</string>
+    <string name="q7">बालप्रदर्शनी में  आप के लिए की गयी सुविधाएं कैसी लगीं ? </string>
+
+
+    <string name="ratingLable">आपका अनुभव  १ से ५ तक :
+        \n\n 5 - अति उत्तम
+        \n 4 - उत्तम
+        \n 3 - बहुत अच्छा
+        \n 2 - अच्छा
+        \n 1 - सुधार की आवश्यकता
+    </string>
+
+-->
+
+<!--
+
+    <string name="q3">संपूर्ण  बालप्रदर्शनी  बघण्याचा तुमचा अनुभव कसा होता ?</string>
+    <string name="q4">बालप्रदर्शनी मध्ये तयार केलेल्या कलाकृती मुलांसाठी कितपत योग्य आहे ?</string>
+    <string name="q5">बालप्रदर्शनीचे संपूर्ण सादरीकरण तुम्हाला कसे वाटले ?</string>
+    <string name="q6">बालसंतांनी मॉडेल्सबद्दल दिलेली माहिती तुम्हाला कशी वाटली ?</string>
+    <string name="q7">बालप्रदर्शनीमध्ये असलेल्या सुविधा तुम्हाला कशा वाटल्या ?</string>
+
+
+    <string name="ratingLable">आपली प्रतिक्रिया ?
+
+        \n\n 5 - अतिउत्तम
+        \n 4 - उत्तम
+        \n 3 - खूप छान
+        \n 2 - छान
+        \n 1 - सुधारणायची आवशकत्या
+    </string>
+-->
+    <string name="btnDBShow">Show Data</string>
+    <string name="back">BACK</string>
+    <string name="btnShow"></string>
+
+    <string name="title_activity_insights_full_screen">InsightsFullScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="btnPin">UNLOCK</string>
+
+</resources>

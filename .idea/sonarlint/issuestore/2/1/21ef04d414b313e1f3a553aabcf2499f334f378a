@@ -1,0 +1,67 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—¦×Ş8£”«†ˆ-
+Gsquid:S1659"+Declare "tvPiechart3FB" on a separate line.(ÉøçÖ8£”«†ˆ-
+Esquid:S1905")Remove this unnecessary cast to "Button".(ñ–ëü8£”«†ˆ-
+Dsquid:S1659"(Declare "btnAnalyze" on a separate line.(ÎàÑ8£”«†ˆ-
+Gsquid:S1905"+Remove this unnecessary cast to "TextView".(ö—´Ÿ8£”«†ˆ-
+Lsquid:S1905"+Remove this unnecessary cast to "TextView".(¹»Ğ›ÿÿÿÿÿ8£”«†ˆ-
+Csquid:S1659"'Declare "pieChart2" on a separate line.(¾Çˆ 8£”«†ˆ-
+Gsquid:S1659"+Declare "tvPiechart2FB" on a separate line.(ÉøçÖ8£”«†ˆ-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Ş‰8£”«†ˆ-
+Ksquid:S1659"*Declare "kidsAgeRange" on a separate line.(Ä®Ö§úÿÿÿÿ8£”«†ˆ-
+Fsquid:S1905"+Remove this unnecessary cast to "TextView".(£÷‹j8£”«†ˆ-
+Tsquid:S1197"8Move the array designator from the variable to the type.(ÕÓã•8£”«†ˆ-
+Isquid:S1068"-Remove this unused "scrollPie" private field.(¤ì§…8£”«†ˆ-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(å®û˜8£”«†ˆ-
+Isquid:S1659"(Declare "totalCount" on a separate line.(Ä®Ö§úÿÿÿÿ8£”«†ˆ-
+Csquid:S1659"'Declare "pieChart4" on a separate line.(¾Çˆ 8£”«†ˆ-
+Jsquid:S1659")Declare "oldAgeRange" on a separate line.(Ä®Ö§úÿÿÿÿ8£”«†ˆ-
+Esquid:S1905")Remove this unnecessary cast to "Button".(ÌÁğ¹8£”«†ˆ-
+Gsquid:S1659"+Declare "btnDeleteData" on a separate line.(ÎàÑ8£”«†ˆ-
+Esquid:S1905")Remove this unnecessary cast to "Button".(•Æ§8£”«†ˆ-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë‰àŒ8£”«†ˆ-
+Lsquid:S1905"+Remove this unnecessary cast to "PieChart".(¯×æ§şÿÿÿÿ8£”«†ˆ-
+Ksquid:S1659"/Declare "tvGendernAgeGroup" on a separate line.(ÉøçÖ8£”«†ˆ-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³˜“¨8£”«†ˆ-
+]squid:CallToDeprecatedMethod"0Remove this use of "getColor"; it is deprecated.(•ö“8£”«†ˆ-
+Gsquid:S1659"+Declare "tvPiechart1FB" on a separate line.(ÉøçÖ8£”«†ˆ-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(óü•Ç8£”«†ˆ-
+=squid:S1170"!Make this final field static too.(ß‰®è8£”«†ˆ-
+Isquid:S1940"(Use the opposite operator (">") instead.(Æœ€£øÿÿÿÿ8£”«†ˆ-
+]squid:CallToDeprecatedMethod"0Remove this use of "getColor"; it is deprecated.(•ö“8£”«†ˆ-
+Lsquid:S1659"+Declare "countOfFemale" on a separate line.(Ä®Ö§úÿÿÿÿ8£”«†ˆ-
+Lsquid:S1905"+Remove this unnecessary cast to "TextView".(ğº‘’üÿÿÿÿ8£”«†ˆ-
+Lsquid:S1905"+Remove this unnecessary cast to "PieChart".(ßü—­ıÿÿÿÿ8£”«†ˆ-
+]squid:CallToDeprecatedMethod"0Remove this use of "getColor"; it is deprecated.(›¬§×8£”«†ˆ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸üÏÍıÿÿÿÿ8£”«†ˆ-
+Jsquid:S1659")Declare "midAgeRange" on a separate line.(Ä®Ö§úÿÿÿÿ8£”«†ˆ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆşˆÚıÿÿÿÿ8£”«†ˆ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÅÉÛ¾ıÿÿÿÿ8£”«†ˆ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†šÊˆÿÿÿÿÿ8£”«†ˆ-
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£í¢V8£”«†ˆ-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸©ä˜8£”«†ˆ-
+Gsquid:S1659"+Declare "tvPiechart5FB" on a separate line.(ÉøçÖ8£”«†ˆ-
+Gsquid:S1905"+Remove this unnecessary cast to "PieChart".(ªÓÆø8£”«†ˆ-
+Lsquid:S1659"+Declare "youthAgeRange" on a separate line.(Ä®Ö§úÿÿÿÿ8£”«†ˆ-
+Csquid:S1659"'Declare "pieChart5" on a separate line.(¾Çˆ 8£”«†ˆ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àê÷¼øÿÿÿÿ8£”«†ˆ-
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¤¿•a8£”«†ˆ-
+Lsquid:S1905"+Remove this unnecessary cast to "TextView".(ÇìÊºùÿÿÿÿ8£”«†ˆ-
+?squid:S1148"#Use a logger to log this exception.(Ç’Çê8£”«†ˆ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(•¨­øÿÿÿÿ8£”«†ˆ-
+Lsquid:S1905"+Remove this unnecessary cast to "PieChart".(‹Ö×´ıÿÿÿÿ8£”«†ˆ-
+?squid:S1148"#Use a logger to log this exception.(Ç’Çê8£”«†ˆ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡¦ìıÿÿÿÿ8£”«†ˆ-
+Nsquid:S1905"-Remove this unnecessary cast to "ScrollView".(¥‹äşÿÿÿÿ8£”«†ˆ-
+Gsquid:S1905"+Remove this unnecessary cast to "TextView".(±ˆ­³8£”«†ˆ-
+Gsquid:S1905"+Remove this unnecessary cast to "TextView".(î·•8£”«†ˆ-
+ksquid:MaximumInheritanceDepth"=This class has 10 parents which is greater than 5 authorized.(ü‰Ñ8£”«†ˆ-
+Gsquid:S1659"+Declare "tvPiechart4FB" on a separate line.(ÉøçÖ8£”«†ˆ-
+Csquid:S1659"'Declare "pieChart3" on a separate line.(¾Çˆ 8£”«†ˆ-
+tsquid:S1450"XRemove the "scrollPie" field and declare it as a local variable in the relevant methods.(¤ì§…8£”«†ˆ-
+‹squid:S1319"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(Íæíã8£”«†ˆ-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«âè®ûÿÿÿÿ8£”«†ˆ-
+Lsquid:S1905"+Remove this unnecessary cast to "PieChart".(é»÷êÿÿÿÿÿ8£”«†ˆ-
+Ksquid:S1481"*Remove this unused "count" local variable.(åùÁÇøÿÿÿÿ8£”«†ˆ-
+]squid:CallToDeprecatedMethod"0Remove this use of "getColor"; it is deprecated.(şêºÑ8£”«†ˆ-
+Gsquid:S1168"+Return an empty collection instead of null.(¥¹ï8£”«†ˆ-

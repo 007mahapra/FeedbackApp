@@ -1,0 +1,7 @@
+
+Fsquid:S1905")Remove this unnecessary cast to "Button".(ãá&8µÆÇ‚ˆ-
+Nsquid:S1905"+Remove this unnecessary cast to "EditText".(ã¤Ã´ÿÿÿÿÿ8µÆÇ‚ˆ-
+Nsquid:S1905"+Remove this unnecessary cast to "TextView".(‡ÿöüÿÿÿÿ8µÆÇ‚ˆ-
+msquid:S1450"VRemove the "btnShow" field and declare it as a local variable in the relevant methods.(‰ôúº
+dsquid:CallToDeprecatedMethod'"0Remove this use of "getColor"; it is deprecated.(¿Š®„ıÿÿÿÿ8µÆÇ‚ˆ-
+Vsquid:UselessImportCheck"-Remove this unused import 'org.w3c.dom.Text'.(¶Äè‹şÿÿÿÿ
