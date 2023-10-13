@@ -42,3 +42,14 @@ Record Total 6032 feedback collected within 4 days by 25 young volunteers during
 No pen paper required, interesting questionnaire for kids and their parents
 
 Minimum resources required , volunteers used their mobile phones / tablets costing 0 money.
+
+
+## Screenshots
+![Alt text](screenshots/image.png)
+![Alt text](screenshots/image-1.png)
+![Alt text](screenshots/image-2.png)
+![Alt text](screenshots/image-3.png)
+![Alt text](screenshots/image-4.png)
+![Alt text](screenshots/image-5.png)
+![Alt text](screenshots/image-6.png)
+![Alt text](screenshots/image-7.png)
